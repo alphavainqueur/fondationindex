@@ -21,6 +21,10 @@ p {
   margin: auto;
 }
 
+.container h2 {
+font-size: 48px
+}
+
 .banner {
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('background.jpg');
   background-size: cover;
